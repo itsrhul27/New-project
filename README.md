@@ -1,2 +1,2 @@
 # New-project
-lets do it
+lets do it from c language.
